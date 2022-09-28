@@ -9,5 +9,5 @@ This project uses the Deoldify model to recolor an old black-and-white image, an
 &nbsp;
   <br>
   <p align = "center">
-    <img src = "Automation logo.png" width = 40%>
+    <img src = "colorize-photos.jpeg" width = 40%>
 </p>
