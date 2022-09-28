@@ -33,4 +33,5 @@ Install Dependencies
   - ipywidgets
 ) 
 
-Afterwards the model can be runned and a black & white image can be fed to it and it will be giving out a coloured image 
+Following that, you can run this model and feed it a black & white image, and it will output a coloured one
+
