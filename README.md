@@ -6,4 +6,8 @@
 This project uses the Deoldify model to recolor an old black-and-white image, and with further improvements it can be scaled to recolor videos as well.
 </b>
   
-Colorise Black & White Pictures 
+&nbsp;
+  <br>
+  <p align = "center">
+    <img src = "Automation logo.png" width = 40%>
+</p>
