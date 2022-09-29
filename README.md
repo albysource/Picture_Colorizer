@@ -35,3 +35,16 @@ Install Dependencies
 
 Following that, you can run this model and feed it a black & white image, and it will output a coloured one
 
+&nbsp;
+  <br>
+  <p align = "center">
+    <img src = "1.jpeg" width = 80%>
+</p>
+
+&nbsp;
+  <br>
+  <p align = "center">
+    <img src = "2.jpeg" width = 80%>
+</p>
+
+
