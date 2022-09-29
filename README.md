@@ -1,4 +1,4 @@
-# Picture_Colorizer
+
 <head>
   <h1 align = "center"><b>Picture_Colorizer</b></h1><br>
 </head>
